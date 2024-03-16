@@ -156,7 +156,7 @@ bg sets the background colour
 command is call when the button is click
 textvariable used to retrieve the current text to the entry widget
 root.mainloop() is a method that executes when we want to run our program.
-Summary
+//Summary//
 We have successfully developed Message encode – decode project in Python. We used the popular tkinter library for rendering graphics on a display window and base64 to encode & decode. We learned how to encode and decode the string, how to create button, widget, and pass the function to the button.
 
-In this way, we can encode our message and decode the encoded message in a secure way by using the key. We hope you enjoyed building this python project.
+In this way, we can encode our message and decode the encoded message in a secure way by using the key.
