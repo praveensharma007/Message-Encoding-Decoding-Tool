@@ -1,4 +1,4 @@
-Message Encode Decode in Python with Tkinter
+//Message Encoding & Decoding Tool//
 
 Python Message Encode-Decode – Secure your Information by Encoding the messages
 
